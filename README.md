@@ -1,8 +1,4 @@
-Aqui está a atualização do arquivo **`README.md`** com a seção de integrantes contendo o seu nome.
 
-O arquivo `README.md` foi reescrito no ambiente com a alteração solicitada. Abaixo está o trecho atualizado e a estrutura completa para consulta rápida:
-
-```markdown
 # SaaS Billing Co. - Refatoração do Núcleo Financeiro
 
 **Disciplina:** Implantação e Entrega de Software - 2026/2  
